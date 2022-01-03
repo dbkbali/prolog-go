@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "eydbk",
+    "gommap",
+    "gsrv",
+    "newgrpc",
+    "proto",
+    "Protobuf",
+    "protoc",
+    "stretchr"
+  ],
+  "spellchecker.ignoreWordsList": [
+    "protobuf"
+  ]
+}
